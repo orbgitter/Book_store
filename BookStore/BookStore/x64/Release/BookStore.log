@@ -1,0 +1,16 @@
+﻿  standalone_example.cpp
+c:\users\z\desktop\7\bookstore\bookstore\standalone_example.cpp(329): warning C4244: '=': conversion from 'long double' to 'float', possible loss of data
+c:\users\z\desktop\7\bookstore\bookstore\standalone_example.cpp(348): warning C4244: '=': conversion from 'long double' to 'float', possible loss of data
+c:\users\z\desktop\7\bookstore\bookstore\standalone_example.cpp(377): warning C4244: '=': conversion from 'long double' to 'float', possible loss of data
+c:\users\z\desktop\7\bookstore\bookstore\standalone_example.cpp(404): warning C4244: '=': conversion from 'long double' to 'float', possible loss of data
+c:\users\z\desktop\7\bookstore\bookstore\standalone_example.cpp(431): warning C4244: '=': conversion from 'long double' to 'float', possible loss of data
+c:\users\z\desktop\7\bookstore\bookstore\standalone_example.cpp(458): warning C4244: '=': conversion from 'long double' to 'float', possible loss of data
+c:\users\z\desktop\7\bookstore\bookstore\standalone_example.cpp(500): warning C4244: '=': conversion from 'long double' to 'float', possible loss of data
+c:\users\z\desktop\7\bookstore\bookstore\standalone_example.cpp(529): warning C4244: '=': conversion from 'long double' to 'float', possible loss of data
+c:\users\z\desktop\7\bookstore\bookstore\standalone_example.cpp(38): warning C4101: 'stmt': unreferenced local variable
+  Generating code
+  1 of 269 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  BookStore.vcxproj -> C:\Users\z\Desktop\7\BookStore\x64\Release\BookStore.exe

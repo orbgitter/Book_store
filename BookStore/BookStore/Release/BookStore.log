@@ -1,0 +1,15 @@
+﻿  standalone_example.cpp
+standalone_example.obj : error LNK2001: unresolved external symbol __imp__get_driver_instance
+standalone_example.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sql::Variant & __thiscall sql::Variant::operator=(class sql::Variant const &)" (__imp_??4Variant@sql@@QAEAAV01@ABV01@@Z)
+standalone_example.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sql::Variant::~Variant(void)" (__imp_??1Variant@sql@@QAE@XZ)
+standalone_example.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sql::Variant::Variant(char const *)" (__imp_??0Variant@sql@@QAE@PBD@Z)
+standalone_example.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sql::Variant::Variant(bool const &)" (__imp_??0Variant@sql@@QAE@AB_N@Z)
+standalone_example.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sql::Variant::Variant(int const &)" (__imp_??0Variant@sql@@QAE@ABH@Z)
+standalone_example.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: int __thiscall sql::SQLException::getErrorCode(void)const " (__imp_?getErrorCode@SQLException@sql@@QBEHXZ)
+standalone_example.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const & __thiscall sql::SQLException::getSQLState(void)const " (__imp_?getSQLState@SQLException@sql@@QBEABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ)
+standalone_example.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const & __thiscall sql::SQLString::asStdString(void)const " (__imp_?asStdString@SQLString@sql@@QBEABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ)
+standalone_example.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sql::SQLString::SQLString(char const * const)" (__imp_??0SQLString@sql@@QAE@QBD@Z)
+standalone_example.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sql::SQLString::SQLString(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_??0SQLString@sql@@QAE@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+standalone_example.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sql::SQLString::SQLString(class sql::SQLString const &)" (__imp_??0SQLString@sql@@QAE@ABV01@@Z)
+standalone_example.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sql::SQLString::~SQLString(void)" (__imp_??1SQLString@sql@@QAE@XZ)
+c:\8\BookStore\Release\BookStore.exe : fatal error LNK1120: 13 unresolved externals
